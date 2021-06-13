@@ -1,4 +1,5 @@
 main
 
+say_hi_master
 
 master
