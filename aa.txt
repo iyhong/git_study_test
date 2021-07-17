@@ -5,3 +5,6 @@ say_hi_master
 master
 
 say_hello_dev
+
+add fucntion (good)
+add dev_function
